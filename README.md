@@ -1,6 +1,9 @@
-# LearnLynk – Technical Assessment 
+# LearnLynk – Technical Assessment(Submission)
 
-Thanks for taking the time to complete this assessment. The goal is to understand how you think about problems and how you structure real project work. This is a small, self-contained exercise that should take around **2–3 hours**. It’s completely fine if you don’t finish everything—just note any assumptions or TODOs.
+This repository contains my completed solution for the LearnLynk Technical Assessment.  
+The goal was to implement schema design, RLS policies, an Edge Function, a small Next.js page, and a short Stripe integration explanation.
+
+All tasks have been completed and placed in the structure provided in the original test starter template.
 
 We use:
 
@@ -8,13 +11,11 @@ We use:
 - **Supabase Edge Functions (TypeScript)**
 - **Next.js + TypeScript**
 
-You may use your own free Supabase project.
 
----
 
 ## Overview
 
-There are four technical tasks:
+There were four technical tasks:
 
 1. Database schema — `backend/schema.sql`  
 2. RLS policies — `backend/rls_policies.sql`  
@@ -22,10 +23,6 @@ There are four technical tasks:
 4. Next.js page — `frontend/pages/dashboard/today.tsx`  
 
 There is also a short written question about Stripe in this README.
-
-Feel free to use Supabase/PostgreSQL docs, or any resource you normally use.
-
----
 
 ## Task 1 — Database Schema
 
